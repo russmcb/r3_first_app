@@ -115,6 +115,6 @@ DEPENDENCIES
   jquery-rails
   rails (= 3.1.0.rc5)
   sass-rails (~> 3.1.0.rc)
-  sqlite3-ruby (= 1.2.5)
+  sqlite3-ruby
   turn
   uglifier
